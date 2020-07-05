@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+
+    //cast iron pizza
+    <string name="IngredientsCastIronPizza">Ingredients \n
+        1/4 pound bulk pork sausage \n
+        1/2 cup grated Parmesan cheese \n
+        1/2 cup chopped green pepper \n
+        1 can (8 ounces) pizza sauce \n
+        1/4 cup chopped onion \n
+        3 ounces sliced pepperoni \n
+        1 loaf (1 pound) frozen bread dough, thawed and halved \n
+        1 can (4 ounces) mushroom stems and pieces, drained \n
+        2 cups shredded part-skim mozzarella cheese \n
+        1/4 teaspoon dried oregano \n\n
+
+        Steps\n
+        1. Preheat oven to 400°. In a large skillet, cook sausage, green pepper and onion over medium heat until sausage is no longer pink and vegetables are tender, 8-10 minutes, breaking up sausage into crumbles; drain.\n
+        2. Roll half of dough into a 12-in. circle. Transfer to a 10-in. cast-iron or other ovenproof skillet. Layer with half of each of the following: mozzarella, Parmesan and pizza sauce. Top with the sausage mixture, pepperoni, mushrooms and 1/8 teaspoon oregano.\n
+        3. Roll out remaining dough to fit top of pie. Place over filling; seal edges. Layer with remaining pizza sauce, cheeses and oregano. Bake until golden brown, 18-22 minutes.\n
+        4. Enjoy\n
+    </string>
+
+    //spaghetti meatballs
+
+    //spaghetti bolongnese
+    <string name="IngredientsBolongnese">Ingredients \n
+        2 tbsp olive oil \n
+        400g/14oz beef mince \n
+        1 onion, diced \n
+        2 garlic cloves, chopped \n
+        100g/3½oz carrot, grated \n
+        2 x 400g tin chopped tomatoes \n
+        400ml/14fl oz stock (made from stock cube. Ideally beef, but any will do) \n
+        400g/14oz dried spaghetti \n
+        salt and pepper \n\n
+
+        Steps \n
+        1. Heat a large saucepan over a medium heat. Add a tablespoon of olive oil and once hot add the beef mince and a pinch of salt and pepper. Cook the mince until well browned over a medium-high heat (be careful not to burn the mince. It just needs to be a dark brown colour). Once browned, transfer the mince to a bowl and set aside. \n
+        2. Add another tablespoon of oil to the saucepan you browned the mince in and turn the heat to medium. Add the onions and a pinch of salt and fry gently for 5-6 minutes, or until softened and translucent. Add the garlic and cook for another 2 minutes. Add the grated carrot then pour the mince and any juices in the bowl back into the saucepan. \n
+        3. Add the tomatoes to the pan and stir well to mix. Pour in the stock, bring to a simmer and then reduce the temperature to simmer gently for 45 minutes, or until the sauce is thick and rich. Taste and adjust the seasoning as necessary. \n
+        4. When ready to cook the spaghetti, heat a large saucepan of water and add a pinch of salt. Cook according to the packet instructions. Once the spaghetti is cooked through, drain and add to the pan with the bolognese sauce. Mix well and serve.\n
+        5. Enjoy
+    </string>
+
+
+    //fish and chip
+    <string name="IngredientsFishandChip">Ingredients \n
+        4 large potatoes, peeled and cut into strips \n
+        1 cup all-purpose flour \n
+        1 teaspoon baking powder \n
+        1 teaspoon salt \n
+        1 teaspoon ground black pepper \n
+        1 cup milk \n
+        1 egg \n
+        1 quart vegetable oil for frying \n
+        1 ½ pounds cod fillets \n\n
+
+        Steps \n
+        1. Place potatoes in a medium-size bowl of cold water. In a separate medium-size mixing bowl, mix together flour, baking powder, salt, and pepper. Stir in the milk and egg; stir until the mixture is smooth. Let mixture stand for 20 minutes.
+        2. Preheat the oil in a large pot or electric skillet to 350 degrees F (175 degrees C). \n
+        3. Fry the potatoes in the hot oil until they are tender. Drain them on paper towels. \n
+        4. Dredge the fish in the batter, one piece at a time, and place them in the hot oil. Fry until the fish is golden brown. If necessary, increase the heat to maintain the 350 degrees F (175 degrees C) temperature. Drain well on paper towels.5. Fry the potatoes again for 1 to 2 minutes for added crispness. \n
+        5. Enjoy\n
+    </string>
+
+    //rainbow pinata cake
+    <string name="IngredientsRainbowCake">Ingredients \n
+        3 ¾ cups sifted all-purpose flour \n
+        1 teaspoon salt \n
+        ¾ teaspoon baking powder \n
+        ¾ teaspoon baking soda \n
+        1 ½ cups unsalted butter, at room temperature \n
+        2 cups white sugar \n
+        5 eggs, at room temperature \n
+        1 tablespoon vanilla extract \n
+        1 ½ cups buttermilk, at room temperature \n
+        2 drops green gel food coloring \n
+        2 drops blue gel food coloring \n
+        2 drops purple gel food coloring \n
+        2 drops pink gel food coloring \n \n
+        Frosting: \n
+        1 ½ cups unsalted butter, at room temperature \n
+        1 (4 ounce) package cream cheese, softened\n
+        7 cups confectioners sugar \n
+        ¼ cup heavy whipping cream \n
+        1 tablespoon vanilla extract \n
+        1 drop pink gel food coloring \n
+        ⅛ teaspoon salt \n\n
+        Assembly: \n
+        1 cup assorted candies \n
+        1 cup multicolored candy sprinkles \n
+
+        Steps \n
+        1. Preheat oven to 350 degrees F (175 degrees C). Grease and lightly flour four 9-inch cake pans.\n
+        2. Whisk flour, 1 teaspoon salt, baking powder, and baking soda together in a bowl.\n
+        3. Beat 1 1/2 cup butter in a stand mixer fitted with the paddle attachment until creamy, about 1 minute. Beat in white sugar on high speed, scraping the bowl with a spatula as needed, until fully incorporated, about 5 minutes. Reduce speed to medium-high; beat in eggs one at a time. Beat in 1 tablespoon vanilla extract.\n
+        4. Mix flour mixture into the creamed butter mixture in 3 additions, alternating with buttermilk, until batter is smooth and slightly thick.\n
+        5. Divide batter evenly among 4 bowls. Tint each portion of batter with green, blue, purple, or pink food coloring; stir until smooth. Pour batter into the prepared baking pans.\n
+        6. Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 25 minutes. Set baking pans on wire racks and let cakes cool completely, about 25 minutes.\n
+        7. Beat 1 1/2 cup butter and cream cheese in a stand mixer fitted with a clean paddle attachment until creamy, about 2 minutes. Add confectioners sugar, heavy cream, and 1 tablespoon vanilla extract; beat on low speed for 30 to 60 seconds.\n
+        8. Increase speed to high and beat frosting until fluffy, about 3 minutes. Scrape down the sides of the bowl as needed. Beat in 1/8 teaspoon salt.\n
+        9. Cut a 4-inch circle out of the center of 2 cake layers using a round cookie cutter. \n
+        10. Place one of the intact cake layers on a cake stand or serving plate. Frost the top using an offset spatula or butter knife. Position one of the cake rings on top. Spread frosting over the top and inside the circle. Repeat with second cake ring. Fill the hole with candies and sprinkles. Place remaining cake layer on top. Frost the top and sides of the entire cake. \n
+        11. Tint any remaining frosting with pink food coloring and pipe decoratively over the cake. Cut cake into slices; spoon any candies that spill out over the slices.\n
+
+        </string>
+
+    //angel cake
+    <string name="IngredientsAngelCake">Ingredients \n
+        1/4 cups cake flour \n
+        3/4 cups white sugar \n
+        1/4  teaspoon salt \n
+        1/2 cups egg whites \n
+        1 teaspoon cream of tartar \n
+        1/2 teaspoon vanilla extract \n
+        1/2 teaspoon almond extract \n
+
+        Steps \n
+        1. Beat egg whites until they form stiff peaks, and then add cream of tartar, vanilla extract, and almond extract.\n
+        2. Sift together flour, sugar, and salt. Repeat five times.\n
+        3. Gently combine the egg whites with the dry ingredients, and then pour into an ungreased 10 inch tube pan.\n
+        4. Place cake pan in a cold oven. Turn the oven on; set it to 325 degrees F (165 degrees C). Cook for about one hour, or until cake is golden brown.\n
+        5. Invert cake, and allow it to cool in the pan. When thoroughly cooled, remove from pan.\n
+        6. Enjoy
+    </string>
+
+
+</resources>
